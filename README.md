@@ -1,6 +1,5 @@
 # monika-github
 ## Activity report of student induction programme 
-'''
 | DATE | RESOURCE PERSON | ACTIVITY DONE |
 |---|---|---|
 | 09-07-2024 | IAS Harleen kaur |Shabad kirtan was done in gurduwara sahib then IAS Harleen kaur gave us a welcome speech |
@@ -11,4 +10,3 @@
 | 17-07-2024 | Dr Jaswinder Singh | He astonished us using his marvellous work on experiments |
 | 18-07-2024 | Prof Harpal Singh Pannu | He gave lecture on religious topic **Gurbani** |
 | 19-07-2024 | Ms.Harjot kaur | perform english activities in seminar hall  |
-'''
