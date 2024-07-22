@@ -10,3 +10,4 @@
 | 17-07-2024 | Dr Jaswinder Singh | He astonished us using his marvellous work on experiments |
 | 18-07-2024 | Prof Harpal Singh Pannu | He gave lecture on religious topic **Gurbani** |
 | 19-07-2024 | Ms.Harjot kaur | perform english activities in seminar hall  |
+## excel certificate https://github.com/Monika-bit03/monika-bit03-github-io/blob/main/IMG_20240720_102855.jpg
