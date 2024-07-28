@@ -10,4 +10,10 @@
 | 17-07-2024 | Dr Jaswinder Singh | He astonished us using his marvellous work on experiments |
 | 18-07-2024 | Prof Harpal Singh Pannu | He gave lecture on religious topic **Gurbani** |
 | 19-07-2024 | Ms.Harjot kaur | perform english activities in seminar hall  |
+| 22-07-2024 | Dr.SB Singh | He collected all the basic details of students on paper and explained to behave well in classrooms |
+| 23-07-2024 | Peer Interaction | Our seniors gave a basic tutorial on how to use canva |
+| 24-07-2024 | Mr Gauravdeep Singh | He shared his life story , his sufferings till today and shared three mantras of success | 
+| 25-07-2024 | Prof Sukhwinder Singh | He took lecture of maths and after that there was a maths test conducted | 
+| 26-07-2024 | Dr Kanwalpreet Bhatt | She explained each and everything about meditation and its benefits and at the end we have done a practical over it | 
+
 ## excel certificate https://github.com/Monika-bit03/monika-bit03-github-io/blob/main/IMG_20240720_102855.jpg
